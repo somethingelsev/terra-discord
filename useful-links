@@ -19,39 +19,62 @@
         },
         {
           "name": "Wallet Providers",
-          "value": "Official Terra Station Wallet: https://docs.terra.money/docs/learn/terra-station/download/README.html\nLeap Wallet: https://leapwallet.io/\nXDEFI Wallet: https://www.xdefi.io/"
+          "value": "Official Terra Station Wallet: https://docs.terra.money/docs/learn/terra-station/download/README.html
+          \nLeap Wallet: https://leapwallet.io/
+          \nXDEFI Wallet: https://www.xdefi.io/"
         },
         {
           "name": "Block/Transaction Explorers",
-          "value": "Official Terra Finder: https://finder.terra.money/\nCommunity Created Extraterrestrial Finder https://finder.extraterrestrial.money/"
+          "value": "Official Terra Finder: https://finder.terra.money/
+          \nCommunity Created Extraterrestrial Finder https://finder.extraterrestrial.money/"
         },
         {
           "name": "Decentralized Exchanges",
-          "value": "Terraswap: https://terraswap.io/\nAstroport: https://astroport.fi/\nLoop Market: https://www.loop.markets/"
+          "value": "Terraswap: https://terraswap.io/
+          \nAstroport: https://astroport.fi/
+          \nLoop Market: https://www.loop.markets/"
         },
         {
           "name": "Bridges:",
-          "value": "Official Terra Bridge: https://bridge.terra.money/\nPortal by Wormhole: https://portalbridge.com/#/transfer\nMultichain: https://multichain.org/\nAxelar: https://satellite.axelar.network/"
+          "value": "Official Terra Bridge: https://bridge.terra.money/
+          \nPortal by Wormhole: https://portalbridge.com/#/transfer
+          \nMultichain: https://multichain.org/
+          \nAxelar: https://satellite.axelar.network/"
         },
         {
           "name": "NFT Marketplaces",
-          "value": "Knowhere: https://knowhere.art/\nRandomEarth: https://randomearth.io/\nTalis Art: https://www.talis.art/\nLuart: https://marketplace.luart.io/\nTerraFloki: https://terrafloki.io/\nOnePlanet: https://www.oneplanetnft.io/"
+          "value": "Knowhere: https://knowhere.art/
+          \nRandomEarth: https://randomearth.io/\nTalis Art: https://www.talis.art/
+          \nLuart: https://marketplace.luart.io/
+          \nTerraFloki: https://terrafloki.io/
+          \nOnePlanet: https://www.oneplanetnft.io/"
         },
         {
           "name": "Portfolio Trackers",
-          "value": "Apeboard: https://apeboard.finance/dashboard\nTefi.app: https://www.tefi.app/dashboard"
+          "value": "Apeboard: https://apeboard.finance/dashboard
+          \nTefi.app: https://www.tefi.app/dashboard"
         },
         {
           "name": "Analytics",
-          "value": "General Terra Data: https://terra.smartstake.io/\nGeneral Terra Data: https://terra.flipsidecrypto.com/terra\nGeneral Terra Data: https://app.alphadefi.fund/terradash\nGeneral Terra Data: https://terradashboard.com/dashboard\nGeneral Terra Data: https://terra.engineer/\nBridge Tracker: https://app.uniwhales.io/terra/bridge-tracker\nTerraswap Dashboard: https://alpac4.com/TerraSwapDashboard\nTokens Richlist: https://tokens.daic.capital/"
+          "value": "General Terra Data: https://terra.smartstake.io/
+          \nGeneral Terra Data: https://terra.flipsidecrypto.com/terra
+          \nGeneral Terra Data: https://app.alphadefi.fund/terradash
+          \nGeneral Terra Data: https://terradashboard.com/dashboard
+          \nGeneral Terra Data: https://terra.engineer/
+          \nBridge Tracker: https://app.uniwhales.io/terra/bridge-tracker
+          \nTerraswap Dashboard: https://alpac4.com/TerraSwapDashboard
+          \nTokens Richlist: https://tokens.daic.capital/"
         },
         {
           "name": "Validator Statistics",
-          "value": "Smartstake: https://tpa.smartstake.io/\nHubble: https://hubble.figment.io/terra/chains/columbus-5\nStake ID: https://stake.id/#/"
+          "value": "Smartstake: https://tpa.smartstake.io/
+          \nHubble: https://hubble.figment.io/terra/chains/columbus-5
+          \nStake ID: https://stake.id/#/"
         },
         {
           "name": "Discord Invites",
-          "value": "Anchor Protocol: https://discord.com/invite/9aUYgpKZ9c\nMirror Protocol: https://discord.gg/KYC22sngFn"
+          "value": "Anchor Protocol: https://discord.com/invite/9aUYgpKZ9c
+          \nMirror Protocol: https://discord.gg/KYC22sngFn"
         }
       ]
     }
