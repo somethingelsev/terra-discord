@@ -2,6 +2,7 @@
   "content": null,
   "embeds": [
     {
+      "title": "Useful Links",
       "color": 5814783,
       "fields": [
         {
@@ -17,8 +18,8 @@
           "value": "https://www.terra.money/ecosystem"
         },
         {
-          "name": "Protocol",
-          "value": "Anchor: \nhttps://www.anchorprotocol.com/\nhttps://terra.lido.fi/\nhttps://anchor.lido.fi/\nMirror:\nhttps://mirrorprotocol.app/\nhttps://mirrorprotocol.is/"
+          "name": "Official Terra Station Site",
+          "value": "https://station.terra.money/"
         },
         {
           "name": "Wallet Providers",
@@ -29,8 +30,12 @@
           "value": "Official Terra Finder: https://finder.terra.money/\nCommunity Created Extraterrestrial Finder https://finder.extraterrestrial.money/"
         },
         {
-          "name": "Decentralized Exchanges",
-          "value": "Terraswap: https://terraswap.io/\nAstroport: https://astroport.fi/\nLoop Market: https://www.loop.markets/"
+          "name": "Decentralized Exchanges(DEX)",
+          "value": "Terraswap: https://terraswap.io/\nAstroport: https://astroport.fi/\nLoop Market: https://www.loop.markets/\nThorswap: https://thorswap.finance/"
+        },
+        {
+          "name": "Decentralized Exchange Aggregators",
+          "value": "Terraformer: https://tfm.com/\nHallswap by Coinhall: https://coinhall.org/\nRango Exchange: https://rango.exchange/"
         },
         {
           "name": "Bridges:",
@@ -45,16 +50,12 @@
           "value": "Apeboard: https://apeboard.finance/dashboard\nTefi.app: https://www.tefi.app/dashboard"
         },
         {
-          "name": "Analytics",
-          "value": "General Terra Data: https://terra.smartstake.io/\nGeneral Terra Data: https://terra.flipsidecrypto.com/terra\nGeneral Terra Data: https://app.alphadefi.fund/terradash\nGeneral Terra Data: https://terradashboard.com/dashboard\nGeneral Terra Data: https://terra.engineer/\nToken Price Charts: https://coinhall.org/\nBridge Tracker: https://app.uniwhales.io/terra/bridge-tracker\nTerraswap Dashboard: https://alpac4.com/TerraSwapDashboard\nTokens Richlist: https://tokens.daic.capital/\nUST Peg Tracker: https://data.chain.link/ethereum/mainnet/stablecoins/ust-usd"
+          "name": "Data & Analytics",
+          "value": "General Terra Data: \nhttps://terra.smartstake.io/\nhttps://terra.flipsidecrypto.com/terra\nhttps://app.alphadefi.fund/terradash\nhttps://terradashboard.com/dashboard\nhttps://terra.engineer/\nhttps://pro.nansen.ai/multichain/terra\n-\nToken Price Charts: https://coinhall.org/\nBridge Tracker: https://app.uniwhales.io/terra/bridge-tracker\nTerraswap Dashboard: https://alpac4.com/TerraSwapDashboard\nTokens Richlist: https://tokens.daic.capital/\nUST Peg Tracker: https://data.chain.link/ethereum/mainnet/stablecoins/ust-usd"
         },
         {
           "name": "Validator Statistics",
           "value": "Smartstake: https://tpa.smartstake.io/\nHubble: https://hubble.figment.io/terra/chains/columbus-5\nStake ID: https://stake.id/#/"
-        },
-        {
-          "name": "Discord Invites",
-          "value": "Anchor Protocol: https://discord.com/invite/9aUYgpKZ9c\nMirror Protocol: https://discord.gg/KYC22sngFn"
         },
         {
           "name": "Transaction Tracking Tools",
@@ -63,8 +64,24 @@
         {
           "name": "Forums",
           "value": "Terra: https://agora.terra.money/\nAnchor: https://forum.anchorprotocol.com/\nMirror: https://forum.mirror.finance/"
+        },
+        {
+          "name": "Community Created Guides",
+          "value": "https://www.lunaguides.com/"
+        },
+        {
+          "name": "Verified Project Sites",
+          "value": "**Anchor Protocol**:\nhttps://www.anchorprotocol.com/\nhttps://terra.lido.fi/\nhttps://anchor.lido.fi/\n**Mirror Protocol**:\nhttps://mirrorprotocol.app/\nhttps://mirrorprotocol.is/"
+        },
+        {
+          "name": "Discord Invites",
+          "value": "Anchor Protocol: https://discord.com/invite/9aUYgpKZ9c\nMirror Protocol: https://discord.gg/KYC22sngFn"
         }
-      ]
+      ],
+      "footer": {
+        "text": "Gathered and Sourced by the Moderation Team"
+      },
+      "timestamp": "2022-04-01T04:00:00.000Z"
     }
   ]
 }
