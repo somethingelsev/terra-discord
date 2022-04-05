@@ -27,7 +27,7 @@
         },
         {
           "name": "Block/Transaction Explorers",
-          "value": "Official Terra Finder: https://finder.terra.money/\nCommunity Created Extraterrestrial Finder https://finder.extraterrestrial.money/"
+          "value": "Official Terra Finder: https://finder.terra.money/\nCommunity Created Terrascope (prev. ET Finder) https://terrascope.info/"
         },
         {
           "name": "Decentralized Exchanges(DEX)",
@@ -68,6 +68,10 @@
         {
           "name": "Community Created Guides",
           "value": "https://www.lunaguides.com/"
+        },
+        {
+          "name": "Luna Foundation Guard",
+          "value": "Apply for Grant: https://lfg.org/fundingandgrants/"
         },
         {
           "name": "Verified Project Sites",
